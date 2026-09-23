@@ -31,7 +31,3 @@ cd src/problem3
 npm install
 npm run typecheck
 ```
-
-## Notes
-
-Each problem folder has its own README, or comments in the code, covering the approach and any assumptions I made where the requirements were open-ended.
